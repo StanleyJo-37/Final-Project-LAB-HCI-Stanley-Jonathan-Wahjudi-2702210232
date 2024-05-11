@@ -1,0 +1,44 @@
+https://www.w3schools.com/jsref/obj_mouseevent.asp
+https://www.w3schools.com/jsref/met_document_getelementbyid.asp
+https://www.w3schools.com/jsref/met_doc_getelementsbyname.asp
+https://developer.mozilla.org/en-US/docs/Web/API/Document/scroll_event
+https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/scale
+https://developer.mozilla.org/en-US/docs/Web/CSS/transition
+https://developer.mozilla.org/en-US/docs/Web/CSS/position
+https://developer.mozilla.org/en-US/docs/Web/CSS/::after
+https://developer.mozilla.org/en-US/docs/Web/API/Element/children
+https://www.w3schools.com/jsref/event_onmouseover.asp
+https://unsplash.com/s/photos/listening-to-music
+https://stackoverflow.com/questions/5608222/how-to-apply-box-shadow-on-all-four-sides
+https://www.w3schools.com/cssref/css3_pr_box-shadow.php
+https://colorhunt.co/
+https://fonts.google.com/
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
+https://javascript.plainenglish.io/asynchronous-processing-in-javascript-loops-2acdbe674303
+https://developer.mozilla.org/en-US/docs/Web/API/Element/mousemove_event
+https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener
+https://developer.mozilla.org/en-US/docs/Web/API/EventTarget
+https://developer.mozilla.org/en-US/docs/Web/API/Selection
+https://developer.mozilla.org/en-US/docs/Web/API/Selection/isCollapsed
+https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollend_event
+https://developer.mozilla.org/en-US/docs/Web/API/MouseEvent/screenX
+https://developer.mozilla.org/en-US/docs/Web/API/Window/screenX
+https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame
+https://www.scaler.com/topics/compare-two-arrays-in-javascript/
+https://reintech.io/blog/introduction-to-working-with-the-getcomputedstyle-method
+https://unsplash.com/s/photos/listening-to-music
+https://testsigma.com/blog/css-breakpoints/
+
+References for Icons:
+"Icon made by Lizel Arina from www.flaticon.com". https://www.flaticon.com/free-icon/hamburger_7710488?term=hamburger&page=1&position=1&origin=search&related_id=7710488
+"Icon made by deemakdaksina from www.flaticon.com". https://www.flaticon.com/free-icon/arrow-right_1549454?term=arrow&page=1&position=28&origin=search&related_id=1549454
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_operator
+https://developer.mozilla.org/en-US/docs/Web/API/Node/childNodes
+https://developer.mozilla.org/en-US/docs/Web/CSS/background-color
+https://www.w3schools.com/howto/howto_js_add_class.asp
+https://www.youtube.com/watch?v=0vFgKr5bjWI
+https://www.youtube.com/watch?v=Kpn2ajSa92c
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function
+https://www.w3schools.com/cssref/css3_pr_animation-timing-function.php
+https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/rotate

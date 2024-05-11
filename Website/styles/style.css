@@ -1,0 +1,374 @@
+@font-face {
+    font-family: 'Press Start 2P';
+    src: url(../assets/fonts/Press_Start_2P/PressStart2P-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Poppins Semi Bold';
+    src: url(../assets/fonts/Poppins/Poppins-SemiBold.ttf);
+}
+
+@keyframes colorGradients {
+    0%  { color: #FF407D; }
+    60% { color: #ffffff; }
+}
+
+*,
+*::before,
+*::after {
+    color: black;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html::-webkit-scrollbar {
+    display: none;
+}
+    
+body {
+    overflow-x: hidden;
+
+    display: flex;
+    flex-direction: column;
+
+    background-color: #fff;
+}
+
+.noscroll {
+    overflow: hidden;
+}
+
+.full-body {
+    width: 100vw;
+    height: 100vh;
+}
+
+.extended-body {
+    width: 100vw;
+    height: 200vh;
+}
+
+.extended-body-section {
+    width: 100%;
+    height: 100%;
+}
+
+.nav-normal {
+    height: 30%;
+}
+
+#navbar {
+    width: 100%;
+
+    background-color: #333A73;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+
+    padding: 5% 6%;
+
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+#navbar-brand a {
+    font-family: 'Press Start 2P', Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: white;
+    font-size: 1.25rem;
+}
+
+#navbar-brand a:hover {
+    color: #50C4ED;
+}
+
+#hamburger-icon {
+    margin-right: 5%;
+
+    height: 1.5rem;
+    width: 1.5rem;
+}
+
+.line {
+    display: inline-block;
+    width: 100%;
+    height: 20%;
+    background-color: #fff;
+    border-radius: 20%;
+}
+
+.line-active {
+    background-color: #50C4ED;
+}
+
+#navbar-choices li a {
+    box-sizing: border-box; 
+    text-decoration: none;
+    font-family: 'Poppins Semi Bold';
+    color: #fff;
+    font-size: 1.2rem;
+}
+
+#highlight {
+    background-color: #FF407D;
+    padding: 1%;
+}
+
+#highlight a {
+    animation: colorGradients 1s infinite linear alternate;
+}
+
+#highlight a:hover {
+    animation: none;
+}
+
+#navbar-choices a:hover:not(#highlight a) {
+    color: #333A73;
+    transition: all .2s ease-in-out;
+}
+
+#navbar-choices #highlight:hover {
+    background-color: #50C4ED;  
+    box-shadow: 0 0 1000% #000;
+    transition: all .2s ease-in-out;
+}
+
+#part-1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 47.5%;
+
+    background-color: #FF407D;
+}
+
+#part-1 p {
+    text-align: center;
+    padding: 7.5%;
+    font-size: 1.25rem;
+}
+
+#part-1 div {
+    width: 100%;
+    height: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#part-1 img {
+    width: 80%;
+}
+
+#part-2 {
+    padding: 10% 5%;
+    background-color: #d7d7d7;
+    width: 100%;
+    height: calc(50% - 2.5%);
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+#part-2 div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 50%;
+}
+.square {
+    width: 50%;
+    height: 50%;
+    background-color: #000;
+}
+
+.extended-space {
+    width: 100%;
+    height: 5%;
+
+    background-color: #f7f7f7;
+}
+
+@media only screen and (max-width: 400px) {
+    *,
+    *::before,
+    *::after {
+        font-size: 20px;
+    }
+    
+    .nav-extended {
+        height: 5%;
+    }
+    
+    #navbar-choices {
+        display: none;
+        position: fixed;
+        list-style-type: none;
+        width: 100%;
+        height: calc(100vh - 10%);
+        left: 0;
+        bottom: 0;
+        margin-top: auto;
+        margin-bottom: 0;
+    }
+    
+    #navbar-choices li {
+        background-color: #FF407D;
+        height: 25%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #navbar-choices li a {
+        font-size: 2rem;
+    }
+
+    #navbar-choices li #active {
+        color: #333A73;
+    }
+}
+
+@media only screen and (min-width: 401px) and (max-width: 600px) {
+    *,
+    *::before,
+    *::after {
+        font-size: 20px;
+    }
+    
+    .nav-extended {
+        height: 5%;
+    }
+
+    #navbar-brand {
+        width: 20%;
+    }
+    
+    #navbar-choices {
+        display: none;
+        position: fixed;
+        list-style-type: none;
+        width: 100%;
+        height: calc(100vh - 10%);
+        left: 0;
+        bottom: 0;
+        margin-top: auto;
+        margin-bottom: 0;
+    }
+    
+    #navbar-choices li {
+        background-color: #FF407D;
+        height: 25%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #navbar-choices li a {
+        font-size: 2rem;
+    }
+
+    #navbar-choices li #active {
+        color: #333A73;
+    }
+}
+
+@media only screen and (mind-width: 601px) and (max-width: 991px) {
+    *,
+    *::before,
+    *::after {
+        font-size: 22px;
+    }
+
+    .nav-extended {
+        height: 5%;
+    }
+}
+
+@media only screen and (min-width: 992px) 
+{
+    *,
+    *::before,
+    *::after {
+        font-size: 24px;
+    }
+
+    .nav-extended {
+        height: 7.5%;
+    }
+
+    #navbar {
+        padding: 3%;
+    }
+
+    #hamburger-icon {
+        display: none;
+    }
+    
+    #navbar-brand {
+        width: 20%;
+        
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    #navbar-choices {
+        list-style-type: none;
+        width: 80%;
+        display: flex;
+        justify-content: flex-end;
+    }
+    
+    #navbar-choices li {
+        display: inline;
+        height: 100%;
+        margin: auto 3%;
+    }
+    
+    #navbar-choices #highlight:hover {
+        -webkit-transform: scale(1.25);
+                transform: scale(1.25);
+        transition: all .2s ease-in-out;
+    }
+    
+    #highlight {
+        border-radius: 5%;
+    }
+
+    #navbar-choices li #active {
+        color: #50C4ED;
+    }
+    
+    .body-section {
+        height: 85%;
+    }
+    
+    .extended-body-section {
+        height: 100%;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .extended-space {
+        height: 7.75%;
+    }
+
+    #part-1 {
+        flex-direction: row;
+        height: 47.25%;
+    }
+
+    #part-2 {
+        height: 47.25%;
+    }
+}
