@@ -1,0 +1,30 @@
+Images/Icons:
+	SVG:
+		SVGREPO (www.svgrepo.com/):
+			https://www.svgrepo.com/svg/509015/arrow-down
+			https://www.svgrepo.com/svg/480285/headphone-5 (PD)
+			https://www.svgrepo.com/svg/355389/youtube
+			https://www.svgrepo.com/svg/452229/instagram-1
+			https://www.svgrepo.com/svg/452188/discord
+			https://www.svgrepo.com/svg/452133/whatsapp
+			https://www.svgrepo.com/svg/473234/heart
+			https://www.svgrepo.com/svg/473235/heart-filled
+			https://www.svgrepo.com/svg/514197/play
+			https://www.svgrepo.com/svg/512622/pause-1006 (PD)
+	JPG:
+		UNSPLASH (https://unsplash.com/)
+			Photo by Ajeet Mestry on Unsplash (Photo by <a href="https://unsplash.com/@ajeetmestry?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Ajeet Mestry</a> on <a href="https://unsplash.com/photos/turned-off-black-television-UBhpOIHnazM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>)
+			Photo by blocks on Unsplash (Photo by <a href="https://unsplash.com/@blocks?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">blocks</a> on <a href="https://unsplash.com/photos/wireless-headphones-leaning-on-books-T3mKJXfdims?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>)
+			Photo by Eric Nopanen on Unsplash (Photo by <a href="https://unsplash.com/@rexcuando?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Eric Nopanen</a> on <a href="https://unsplash.com/photos/woman-laying-on-bed-near-gray-radio-8e0EHPUx3Mo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>)
+			Photo by Hannah Busing on Unsplash (Photo by <a href="https://unsplash.com/@hannahbusing?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Hannah Busing</a> on <a href="https://unsplash.com/photos/person-in-red-sweater-holding-babys-hand-Zyx1bK9mqmA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>)
+			Photo by Henry Be on Unsplash (Photo by <a href="https://unsplash.com/@henry_be?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Henry Be</a> on <a href="https://unsplash.com/photos/man-wearing-quilted-black-leather-jacket-bAFiBDMeiVI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>)
+			Photo by Mpumelelo Macu on Unsplash (Photo by <a href="https://unsplash.com/@mpumelelomacu?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Mpumelelo Macu</a> on <a href="https://unsplash.com/photos/boy-listening-headphones-9p-DsBtSygA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>)
+
+Figma:
+	https://help.figma.com/hc/en-us/articles/360039818734-Prototype-scroll-and-overflow-behavior
+	
+Color Palletes:
+	https://www.color-hex.com/color-palette/12521		
+
+Licenses:
+	https://www.svgrepo.com/page/licensing/
