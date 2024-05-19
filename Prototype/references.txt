@@ -19,6 +19,9 @@ Images/Icons:
 			Photo by Hannah Busing on Unsplash (Photo by <a href="https://unsplash.com/@hannahbusing?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Hannah Busing</a> on <a href="https://unsplash.com/photos/person-in-red-sweater-holding-babys-hand-Zyx1bK9mqmA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>)
 			Photo by Henry Be on Unsplash (Photo by <a href="https://unsplash.com/@henry_be?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Henry Be</a> on <a href="https://unsplash.com/photos/man-wearing-quilted-black-leather-jacket-bAFiBDMeiVI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>)
 			Photo by Mpumelelo Macu on Unsplash (Photo by <a href="https://unsplash.com/@mpumelelomacu?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Mpumelelo Macu</a> on <a href="https://unsplash.com/photos/boy-listening-headphones-9p-DsBtSygA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>)
+			Photo by Federica Galli on Unsplash (Photo by <a href="https://unsplash.com/@fedechanw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Federica Galli</a> on <a href="https://unsplash.com/photos/crt-monitor-turned-off-aiqKc07b5PA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>)
+			Photo by Marsha Dhita on Unsplash (Photo by <a href="https://unsplash.com/@marshadhita?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Marsha Dhita</a> on <a href="https://unsplash.com/photos/man-standing-under-the-tree-during-daytime-RLz345_a7oM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>)
+			Photo by Hendrian David on Unsplash (Photo by <a href="https://unsplash.com/@hendriyandavid?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Hendriyan David</a> on <a href="https://unsplash.com/photos/men-wearing-white-shirt-near-trees-MrjL8YZ2fi4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>)
 
 Figma:
 	https://help.figma.com/hc/en-us/articles/360039818734-Prototype-scroll-and-overflow-behavior
@@ -28,3 +31,5 @@ Color Palletes:
 
 Licenses:
 	https://www.svgrepo.com/page/licensing/
+
+Licenses are included in the assets directory
